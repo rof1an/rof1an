@@ -5,16 +5,16 @@ I specialize in the layout of adaptive websites, landing pages from the Figma or
 
 ## Languages and Tools
 
-![HTML5](https://img.shields.io/badge/-HTML-gray?style=for-the-badge&logo=HTML5&logoColor=red)
-![CSS3](https://img.shields.io/badge/-CSS-gray?style=for-the-badge&logo=CSS3&logoColor=blue)
-![JS](https://img.shields.io/badge/-JavaScript-gray?style=for-the-badge&logo=CSS3&logoColor=yellow)
-![GULP](https://img.shields.io/badge/-GULP-gray?style=for-the-badge&logo=GULP&logoColor=red)
-![Figma](https://img.shields.io/badge/-Figma-gray?style=for-the-badge&logo=Figma&logoColor=orange)
+![HTML5](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=red)
+![CSS3](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue)
+![JS](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=CSS3&logoColor=yellow)
+![GULP](https://img.shields.io/badge/-GULP-black?style=for-the-badge&logo=GULP&logoColor=red)
+![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma&logoColor=orange)
 
 
 ## Social networks
 
-[![VK](https://img.shields.io/badge/-VK-gray?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/zosik_667)
-[![Instagram](https://img.shields.io/badge/-Instagram-gray?style=for-the-badge&logo=instagram&logoColor=blueviolet)](https://www.instagram.com/ego0or_/)
-[![GMAIL](https://img.shields.io/badge/-GMAIL-gray?style=for-the-badge&logo=GMAIL&logoColor=red)]()
+[![VK](https://img.shields.io/badge/-VK-black?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/zosik_667)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=blueviolet)](https://www.instagram.com/ego0or_/)
+[![GMAIL](https://img.shields.io/badge/-GMAIL-black?style=for-the-badge&logo=GMAIL&logoColor=red)]()
 
