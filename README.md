@@ -1,4 +1,4 @@
-[![Header](https://postimg.cc/XXQDJvMP)](https://vk.com/zosik_667)
+[![Header](https://postimg.cc/XXQDJvMP][img]https://i.postimg.cc/XXQDJvMP/roflan.png)](https://vk.com/zosik_667)
 
 ## I'm a beginner front-end developer
 I specialize in the layout of adaptive websites, landing pages from the Figma or PSD
