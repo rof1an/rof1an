@@ -14,7 +14,7 @@ I specialize in the layout of adaptive websites, landing pages from the Figma or
 
 ## Social networks
 
-[![VK](https://img.shields.io/badge/-VK-gray?style=for-the-badge&logo=HTML5&logoColor=blue)](https://vk.com/zosik_667)
+[![VK](https://img.shields.io/badge/-VK-gray?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/zosik_667)
 [![Instagram](https://img.shields.io/badge/-Instagram-gray?style=for-the-badge&logo=instagram&logoColor=violet)](https://www.instagram.com/ego0or_/)
 [![GMAIL](https://img.shields.io/badge/-GMAIL-gray?style=for-the-badge&logo=GMAIL&logoColor=red)](https://vk.com/zosik_667)
 
