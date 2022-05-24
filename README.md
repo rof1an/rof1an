@@ -1,4 +1,4 @@
-[![Header](https://disk.yandex.kz/i/FyaC0hWdRY0jug)](https://vk.com/zosik_667)
+[![Header](https://1.downloader.disk.yandex.kz/preview/3ac43915d98aae38f1a086d2ed22e4b57c885fd1628c06748df48757c5b0b11e/inf/yc-_4dgwvTsRfLN-Mz_Tzp5OXT9sIuXIGIE50lnWjjGWa5PxlWixAyXTP3iL62xui8D5YjAO3XckkXQsypf3Cg%3D%3D?uid=827972161&filename=roflan.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=827972161&tknv=v2&size=1903x934)](https://vk.com/zosik_667)
 
 ## I'm a beginner front-end developer
 I specialize in the layout of adaptive websites, landing pages from the Figma or PSD
