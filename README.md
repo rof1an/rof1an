@@ -1,6 +1,7 @@
 [![Header](https://pbs.twimg.com/profile_banners/1348771274647085062/1610407322/1500x500)](https://vk.com/zosik_667)
 
 ## I'm a beginner front-end developer
+I specialize in the layout of adaptive websites, landing pages from the Figma or PSD
 
 ## Languages and Tools
 
