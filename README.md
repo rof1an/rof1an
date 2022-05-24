@@ -1,4 +1,4 @@
-[![Header](https://pbs.twimg.com/profile_banners/1348771274647085062/1610407322/1500x500)](https://vk.com/zosik_667)
+[![Header](https://kartinkin.net/uploads/posts/2021-07/1626263326_15-kartinkin-com-p-serii-matovii-fon-krasivo-19.jpg)](https://vk.com/zosik_667)
 
 ## I'm a beginner front-end developer
 I specialize in the layout of adaptive websites, landing pages from the Figma or PSD
