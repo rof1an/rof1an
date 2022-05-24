@@ -1,4 +1,4 @@
-[![Header](https://imgur.com/8dc9be6f-88e4-43b4-b0be-f09392866c0d)](https://vk.com/zosik_667)
+[![Header](https://imgur.com/o6N0oWy)](https://vk.com/zosik_667)
 
 ## I'm a beginner front-end developer
 I specialize in the layout of adaptive websites, landing pages from the Figma or PSD
