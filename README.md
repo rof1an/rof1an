@@ -1,4 +1,4 @@
-[![Header](https://disk.yandex.kz/client/disk/bg?idApp=client&dialog=slider&idDialog=%2Fdisk%2Fbg%2Froflan.png)](https://vk.com/zosik_667)
+[![Header](https://disk.yandex.kz/i/FyaC0hWdRY0jug)](https://vk.com/zosik_667)
 
 ## I'm a beginner front-end developer
 I specialize in the layout of adaptive websites, landing pages from the Figma or PSD
