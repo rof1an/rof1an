@@ -11,10 +11,10 @@ I specialize in the layout of adaptive websites, landing pages from the Figma or
 ![GULP](https://img.shields.io/badge/-GULP-gray?style=for-the-badge&logo=GULP&logoColor=red)
 ![Figma](https://img.shields.io/badge/-Figma-gray?style=for-the-badge&logo=Figma&logoColor=orange)
 
-## Social network
+
+## Social networks
 
 [![VK](https://img.shields.io/badge/-VK-gray?style=for-the-badge&logo=HTML5&logoColor=blue)](https://vk.com/zosik_667)
-![Instagram](https://img.shields.io/badge/-Instagram-gray?style=for-the-badge&logo=Instagram&logoColor=pink)
-![JS](https://img.shields.io/badge/-JavaScript-gray?style=for-the-badge&logo=CSS3&logoColor=yellow)
-![GULP](https://img.shields.io/badge/-GULP-gray?style=for-the-badge&logo=GULP&logoColor=red)
-![Figma](https://img.shields.io/badge/-Figma-gray?style=for-the-badge&logo=Figma&logoColor=orange)
+[![Instagram](https://img.shields.io/badge/-Instagram-gray?style=for-the-badge&logo=instagram&logoColor=violet)](https://www.instagram.com/ego0or_/)
+[![GMAIL](https://img.shields.io/badge/-GMAIL-gray?style=for-the-badge&logo=GMAIL&logoColor=red)](https://vk.com/zosik_667)
+
