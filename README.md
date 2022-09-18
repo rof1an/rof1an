@@ -1,6 +1,6 @@
 [![Header](https://ie.wampi.ru/2022/05/24/roflan.md.png)](https://vk.com/zosik_667)
 
-## I'm a beginner front-end developer
+## Beginner front-end developer
 I specialize in the layout of adaptive websites, landing pages from the Figma or PSD
 
 ## Languages and Tools
