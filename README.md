@@ -1,4 +1,4 @@
-[![Header](https://ie.wampi.ru/2022/05/24/roflan.md.png)](https://vk.com/zosik_667)
+[![Header](https://ie.wampi.ru/2022/05/24/roflan.md.png)]()
 
 ## Beginner front-end developer
 I specialize in the layout of adaptive websites, landing pages from the Figma or PSD
