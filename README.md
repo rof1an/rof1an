@@ -1,6 +1,6 @@
 
 
-## Beginner front-end developer
+## Beginner Front-End Developer
 I specialize in the layout of adaptive websites, landing pages. 
 I am actively studying the React.js library in combination with the state manager Redux 
 
