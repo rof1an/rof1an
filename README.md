@@ -1,7 +1,8 @@
 
 
 ## Beginner front-end developer
-I specialize in the layout of adaptive websites, landing pages from the Figma or PSD
+I specialize in the layout of adaptive websites, landing pages. 
+I am actively studying the React.js library in combination with the state manager Redux 
 
 ## Languages and Tools
 
