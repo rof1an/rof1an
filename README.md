@@ -10,6 +10,7 @@ I am actively studying the React.js library in combination with the state manage
 ![CSS3](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=for-the-badge&logo=SASS&logoColor=pink)
 ![JS](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=CSS3&logoColor=yellow)
+![REACT](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=blue)
 ![GULP](https://img.shields.io/badge/-GULP-black?style=for-the-badge&logo=GULP&logoColor=red)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma&logoColor=orange)
 
