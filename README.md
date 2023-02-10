@@ -8,7 +8,7 @@ Skills of working with the layout, the React library, state manager Redux, Redux
 ![HTML5](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=red)
 ![CSS3](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=for-the-badge&logo=SASS&logoColor=pink)
-![JS](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JS&logoColor=yellow)
+![JS](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![GULP](https://img.shields.io/badge/-GULP-black?style=for-the-badge&logo=GULP&logoColor=red)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma&logoColor=orange)
 ![REACT](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=blue)
