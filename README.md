@@ -1,7 +1,7 @@
 
 
 ## Beginner Front-End Developer
-Skills of working with the layout, the React library, state manager Redux, Redux Toolkit, Typescript
+Skills of working with the HTML Layout, the React library, state manager Redux, Redux Toolkit, Typescript, Firebase
 
 ## Languages and Tools
 
