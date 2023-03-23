@@ -22,5 +22,5 @@ Skills of working with the HTML Layout, the React library, state manager Redux, 
 [![VK](https://img.shields.io/badge/-VK-black?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/zosik_667)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=blueviolet)](https://www.instagram.com/ego0or_/)
 [![GMAIL](https://img.shields.io/badge/-GMAIL-black?style=for-the-badge&logo=GMAIL&logoColor=red)]()
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor=blue)](https://t.me/fck_roflan)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor=blue)](https://t.me/jst_roflan)
 
