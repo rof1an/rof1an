@@ -11,8 +11,8 @@
 [![codewars](https://www.codewars.com/users/rof1an/badges/large)](https://www.codewars.com/users/rof1an)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ego0or_/) 
-[![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/egor-rachkov-450558250/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ego0or_/) 
+[![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egor-rachkov-450558250/) 
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/rflwnq)
 [![VK](https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/zosik_667)
 
