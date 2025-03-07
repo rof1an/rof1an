@@ -1,7 +1,6 @@
 
-# 📊 GitHub Stats:
+# 📈 GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rof1an&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/username=rof1an&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rof1an&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact) 
 
 ##  <h3 align="left">🌐 Соц. сети:</h3>
